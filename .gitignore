@@ -65,3 +65,4 @@ dkms.conf
 /out/build/x64-Debug (default)
 /proof_of_concept/flex-bison-poc/.vs/flex-bison-poc/v16
 /proof_of_concept/flex-bison-poc/flex_bison_poc/Debug
+/proof_of_concept/flex-bison-poc/memory_test/Debug
