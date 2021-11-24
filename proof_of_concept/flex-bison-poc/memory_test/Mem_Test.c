@@ -3,7 +3,7 @@
 
 
 
-#include "../flex-bison-poc/memory_management.h"
+#include "memory_management.h"
 
 #include <stdio.h>
 

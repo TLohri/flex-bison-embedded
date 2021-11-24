@@ -59,3 +59,9 @@ dkms.conf
 /Flex_test/flex-bison-poc/.vs/flex-bison-poc/v16
 /Flex_test/flex-bison-poc/flex-bison-poc/Debug
 /Flex_test/flex-bison-poc/Mem_Test/Debug
+/.vs/flex-bison-embedded/v16/.suo
+/build
+/.vs
+/out/build/x64-Debug (default)
+/proof_of_concept/flex-bison-poc/.vs/flex-bison-poc/v16
+/proof_of_concept/flex-bison-poc/flex_bison_poc/Debug
