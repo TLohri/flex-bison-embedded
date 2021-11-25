@@ -1,1 +1,3 @@
-add_subdirectory(flex-bison-poc)
+add_subdirectory(memory_management)
+add_subdirectory(flex_bison_poc)
+add_subdirectory(memory_test)
